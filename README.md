@@ -14,12 +14,14 @@ El objetivo de esta aplicación es:
 - Se podria agregar mejoras en especial a la parte de conclusiones y variable objetivo a evaluar, a fin de que la misma sea variable y sirva para cualquier dataset.
 
 
-## 📸 Capturas de la app
+## 📸 Capturas de la aplicación
+En la parte izquierda de la aplicación se muestra un menu de navegacion sobre las opciones disponibles: Home (Pantalla Principal), Cargar Dataset (Permite descargar el dataset de ejemplo y cargar el mismo a la aplicacion o cargar un dataset propio) y EDA (Contiene opciones para realizar el analisis respectivo del dataset).
+### Pantalla principal:
 
-### Pantalla principal
-![Home](images/home.png)
+![Home](imagenes/home_1.png)
+![Home_2](imagenes/home_2.png)
 
-### Ejemplo de CRUD
+### Opcion para Cargar el Dataset:
 ![CRUD](images/crud.png)
 
 ### Visualización de métricas
